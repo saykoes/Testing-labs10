@@ -1,0 +1,211 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\Git\\Testing10\\RegTest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5A39F73D-89C6-4506-91C5-70A31931269B}|RegTest\\RegTest.csproj|g:\\git\\testing10\\regtest\\regtest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A39F73D-89C6-4506-91C5-70A31931269B}|RegTest\\RegTest.csproj|solutionrelative:regtest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A39F73D-89C6-4506-91C5-70A31931269B}|RegTest\\RegTest.csproj|g:\\git\\testing10\\regtest\\regtest\\log\\filelogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A39F73D-89C6-4506-91C5-70A31931269B}|RegTest\\RegTest.csproj|solutionrelative:regtest\\log\\filelogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A39F73D-89C6-4506-91C5-70A31931269B}|RegTest\\RegTest.csproj|g:\\git\\testing10\\regtest\\regtest\\log\\consolelogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A39F73D-89C6-4506-91C5-70A31931269B}|RegTest\\RegTest.csproj|solutionrelative:regtest\\log\\consolelogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A39F73D-89C6-4506-91C5-70A31931269B}|RegTest\\RegTest.csproj|g:\\git\\testing10\\regtest\\regtest\\ui\\mainuicontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A39F73D-89C6-4506-91C5-70A31931269B}|RegTest\\RegTest.csproj|solutionrelative:regtest\\ui\\mainuicontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A39F73D-89C6-4506-91C5-70A31931269B}|RegTest\\RegTest.csproj|g:\\git\\testing10\\regtest\\regtest\\core\\regestrator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A39F73D-89C6-4506-91C5-70A31931269B}|RegTest\\RegTest.csproj|solutionrelative:regtest\\core\\regestrator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A39F73D-89C6-4506-91C5-70A31931269B}|RegTest\\RegTest.csproj|g:\\git\\testing10\\regtest\\regtest\\core\\passwordmasker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A39F73D-89C6-4506-91C5-70A31931269B}|RegTest\\RegTest.csproj|solutionrelative:regtest\\core\\passwordmasker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A39F73D-89C6-4506-91C5-70A31931269B}|RegTest\\RegTest.csproj|g:\\git\\testing10\\regtest\\regtest\\regtest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5A39F73D-89C6-4506-91C5-70A31931269B}|RegTest\\RegTest.csproj|solutionrelative:regtest\\regtest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A39F73D-89C6-4506-91C5-70A31931269B}|RegTest\\RegTest.csproj|g:\\git\\testing10\\regtest\\regtest\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A39F73D-89C6-4506-91C5-70A31931269B}|RegTest\\RegTest.csproj|solutionrelative:regtest\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A39F73D-89C6-4506-91C5-70A31931269B}|RegTest\\RegTest.csproj|g:\\git\\testing10\\regtest\\regtest\\log\\ilogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A39F73D-89C6-4506-91C5-70A31931269B}|RegTest\\RegTest.csproj|solutionrelative:regtest\\log\\ilogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A39F73D-89C6-4506-91C5-70A31931269B}|RegTest\\RegTest.csproj|g:\\git\\testing10\\regtest\\regtest\\database\\idatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A39F73D-89C6-4506-91C5-70A31931269B}|RegTest\\RegTest.csproj|solutionrelative:regtest\\database\\idatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A39F73D-89C6-4506-91C5-70A31931269B}|RegTest\\RegTest.csproj|g:\\git\\testing10\\regtest\\regtest\\database\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A39F73D-89C6-4506-91C5-70A31931269B}|RegTest\\RegTest.csproj|solutionrelative:regtest\\database\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FileLogger.cs",
+              "DocumentMoniker": "G:\\Git\\Testing10\\RegTest\\RegTest\\Log\\FileLogger.cs",
+              "RelativeDocumentMoniker": "RegTest\\Log\\FileLogger.cs",
+              "ToolTip": "G:\\Git\\Testing10\\RegTest\\RegTest\\Log\\FileLogger.cs",
+              "RelativeToolTip": "RegTest\\Log\\FileLogger.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAmwAoAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T04:23:41.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RegTest",
+              "DocumentMoniker": "G:\\Git\\Testing10\\RegTest\\RegTest\\RegTest.csproj",
+              "RelativeDocumentMoniker": "RegTest\\RegTest.csproj",
+              "ToolTip": "G:\\Git\\Testing10\\RegTest\\RegTest\\RegTest.csproj",
+              "RelativeToolTip": "RegTest\\RegTest.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-05T04:15:58.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IDataBase.cs",
+              "DocumentMoniker": "G:\\Git\\Testing10\\RegTest\\RegTest\\DataBase\\IDataBase.cs",
+              "RelativeDocumentMoniker": "RegTest\\DataBase\\IDataBase.cs",
+              "ToolTip": "G:\\Git\\Testing10\\RegTest\\RegTest\\DataBase\\IDataBase.cs",
+              "RelativeToolTip": "RegTest\\DataBase\\IDataBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T03:56:58.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "User.cs",
+              "DocumentMoniker": "G:\\Git\\Testing10\\RegTest\\RegTest\\Models\\User.cs",
+              "RelativeDocumentMoniker": "RegTest\\Models\\User.cs",
+              "ToolTip": "G:\\Git\\Testing10\\RegTest\\RegTest\\Models\\User.cs",
+              "RelativeToolTip": "RegTest\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T03:46:45.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PasswordMasker.cs",
+              "DocumentMoniker": "G:\\Git\\Testing10\\RegTest\\RegTest\\Core\\PasswordMasker.cs",
+              "RelativeDocumentMoniker": "RegTest\\Core\\PasswordMasker.cs",
+              "ToolTip": "G:\\Git\\Testing10\\RegTest\\RegTest\\Core\\PasswordMasker.cs",
+              "RelativeToolTip": "RegTest\\Core\\PasswordMasker.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T03:43:34.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Regestrator.cs",
+              "DocumentMoniker": "G:\\Git\\Testing10\\RegTest\\RegTest\\Core\\Regestrator.cs",
+              "RelativeDocumentMoniker": "RegTest\\Core\\Regestrator.cs",
+              "ToolTip": "G:\\Git\\Testing10\\RegTest\\RegTest\\Core\\Regestrator.cs",
+              "RelativeToolTip": "RegTest\\Core\\Regestrator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T03:42:54.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ILogger.cs",
+              "DocumentMoniker": "G:\\Git\\Testing10\\RegTest\\RegTest\\Log\\ILogger.cs",
+              "RelativeDocumentMoniker": "RegTest\\Log\\ILogger.cs",
+              "ToolTip": "G:\\Git\\Testing10\\RegTest\\RegTest\\Log\\ILogger.cs",
+              "RelativeToolTip": "RegTest\\Log\\ILogger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T03:39:23.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ConsoleLogger.cs",
+              "DocumentMoniker": "G:\\Git\\Testing10\\RegTest\\RegTest\\Log\\ConsoleLogger.cs",
+              "RelativeDocumentMoniker": "RegTest\\Log\\ConsoleLogger.cs",
+              "ToolTip": "G:\\Git\\Testing10\\RegTest\\RegTest\\Log\\ConsoleLogger.cs",
+              "RelativeToolTip": "RegTest\\Log\\ConsoleLogger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T03:38:20.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\Git\\Testing10\\RegTest\\RegTest\\Program.cs",
+              "RelativeDocumentMoniker": "RegTest\\Program.cs",
+              "ToolTip": "G:\\Git\\Testing10\\RegTest\\RegTest\\Program.cs",
+              "RelativeToolTip": "RegTest\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T02:41:37.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainUIControl.cs",
+              "DocumentMoniker": "G:\\Git\\Testing10\\RegTest\\RegTest\\UI\\MainUIControl.cs",
+              "RelativeDocumentMoniker": "RegTest\\UI\\MainUIControl.cs",
+              "ToolTip": "G:\\Git\\Testing10\\RegTest\\RegTest\\UI\\MainUIControl.cs",
+              "RelativeToolTip": "RegTest\\UI\\MainUIControl.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T04:18:28.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DataBase.cs",
+              "DocumentMoniker": "G:\\Git\\Testing10\\RegTest\\RegTest\\DataBase\\DataBase.cs",
+              "RelativeDocumentMoniker": "RegTest\\DataBase\\DataBase.cs",
+              "ToolTip": "G:\\Git\\Testing10\\RegTest\\RegTest\\DataBase\\DataBase.cs",
+              "RelativeToolTip": "RegTest\\DataBase\\DataBase.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAA4AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T03:52:27.31Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

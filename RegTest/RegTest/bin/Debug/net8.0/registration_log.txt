@@ -1,0 +1,2 @@
+--- Log Started: 05.05.2026 11:28:42 ---
+[2026-05-05 11:28:47][ERROR] Password confirm doesn't match password
