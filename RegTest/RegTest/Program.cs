@@ -14,9 +14,10 @@ internal class Program
     {
         // dependencies
         //ConsoleLogger logger = new ConsoleLogger();
-        FileLogger fileLog = new FileLogger(LogFilePath);
+        //FileLogger fileLog = new FileLogger(LogFilePath);
+        SerilogLogger serLog = new SerilogLogger(LogFilePath);
         DataBase db = new DataBase();
-        Regestrator reg = new Regestrator(fileLog, db);
+        Regestrator reg = new Regestrator(serLog, db);
 
         MainUIControl mainUi = new MainUIControl();
         mainUi.Start(reg);
